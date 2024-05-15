@@ -17,7 +17,7 @@ Joyal gregory, student of the Interactive Media Design program at Fanshawe Colle
 
 MIT License
 
-Copyright (c) 2024 sidhu-sukhbhag
+Copyright (c) 2024 Joyal gregory
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
