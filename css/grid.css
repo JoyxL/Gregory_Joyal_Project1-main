@@ -1,0 +1,36 @@
+#hidden {
+    display: none;
+}
+.uniquifier {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+#box{
+    width: 430px;
+    margin: 20px auto;
+    border: solid 3px black;
+    border-radius: 20px;
+}
+
+#mainbox{
+    display: grid;
+    grid-template-columns: repeat(4, 85px);
+    grid-column-gap: 16px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+article{
+    grid-column: 1/-1;
+}
+
+footer{
+    opacity: 75%;
+    font-family: "sans-serif";
+    text-size-adjust: 5px;
+    
+}
